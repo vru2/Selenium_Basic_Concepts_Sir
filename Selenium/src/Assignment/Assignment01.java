@@ -9,6 +9,7 @@ public class Assignment01 {
 
 	public static void main(String[] args) throws InterruptedException {
 		//New changes from lead
+		//Changes from lead for 2 time
 		
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
